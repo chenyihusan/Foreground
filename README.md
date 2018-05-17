@@ -12,5 +12,6 @@ Front-end
 4.  BuildSchool Blog  
 ![BuildSchool](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/BS.png?raw=true)
 5. News  
+![ArtNews](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/artnews.png?raw=true)
 6. Trello
 
