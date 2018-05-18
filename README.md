@@ -14,4 +14,5 @@ Front-end
 5. News  
 ![ArtNews](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/artnews.png?raw=true)
 6. Trello
+![Trello](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/trello.png?raw=true)
 
