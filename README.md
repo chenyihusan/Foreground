@@ -34,6 +34,6 @@ Front-End
 
 7. 終極密碼  
 [Look more!](https://calenderjs.azurewebsites.net/JSpassword.html)
-![Calendar](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/calendar.png?raw=true)
+![](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/JSpassword.png?raw=true)
 
 
