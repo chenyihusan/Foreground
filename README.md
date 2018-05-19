@@ -29,6 +29,7 @@ Front-End
 ![Trello](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/trello.png?raw=true)  
 
 7. Calendar  
-![Calendar](https://calenderjs.azurewebsites.net/Calendar.html)
+[Look more!](https://calenderjs.azurewebsites.net/Calendar.html)
+![Calendar](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/calendar.png?raw=true)
 
 
