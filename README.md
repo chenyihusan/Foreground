@@ -32,8 +32,12 @@ Front-End
 [Look more!](https://calenderjs.azurewebsites.net/Calendar.html)
 ![Calendar](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/calendar.png?raw=true)  
 
-7. 終極密碼  
+8. 終極密碼  
 [Look more!](https://calenderjs.azurewebsites.net/JSpassword.html)
-![](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/JSpassword.png?raw=true)
+![1-100](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/JSpassword.png?raw=true)  
+
+9. 打地鼠  
+[Look more!](https://calenderjs.azurewebsites.net/mole.html)
+![mole](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/mole.png?raw=true)
 
 
