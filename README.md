@@ -52,7 +52,7 @@ Front-End
 
  
  
-    *  
+    *Angular 
 [Look more!](https://calenderjs.azurewebsites.net/jquerycalendar.html)
 ![AB](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/JQcalendar.png?raw=true)  
 
