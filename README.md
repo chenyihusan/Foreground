@@ -10,7 +10,7 @@ Front-End
 
 2. Shopee  
 [Look more!](https://calenderjs.azurewebsites.net/bsblog.html)
-![BuildSchool](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/BS.png?raw=true)
+![Shopee](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/shopeeimage.png?raw=true)
 
 3.  Web  
 [Look more!](https://calenderjs.azurewebsites.net/Web.html)
