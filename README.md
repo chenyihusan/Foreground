@@ -9,8 +9,8 @@ Front-End
 ![Temperature Conversion ](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/FC.png?raw=true)
 
 2. Shopee  
-[Look more!](https://calenderjs.azurewebsites.net/bsblog.html)
-![BuildSchool](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/BS.png?raw=true)
+[Look more!](https://calenderjs.azurewebsites.net/shop.html)
+![Shopee](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/shopeeimage.png?raw=true)
 
 3.  Web  
 [Look more!](https://calenderjs.azurewebsites.net/Web.html)
