@@ -60,7 +60,3 @@ Front-End
 [Look more!](https://calenderjs.azurewebsites.net/maptravel.html)
 ![Fee](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/maptravelimage.png?raw=true)  
 
-
-13.計算過路費  
-[Look more!](https://calenderjs.azurewebsites.net/maptravel.html)
-![Fee](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/maptravelimage.png?raw=true)  
