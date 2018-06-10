@@ -17,7 +17,9 @@ Front-End
 ![Shopee](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/shopeeimage.png?raw=true)
 
 3.  Web  
-[Look more!](https://calenderjs.azurewebsites.net/Web.html)
+[Look more!](https://calenderjs.azurewebsites.net/Web.html)  
+***
+＋
  ![Web](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/FireShot%20Capture%2012%20-%20Title%20-%20file____Users_alice_Documents_GithubHW_shopee_Web.html.png?raw=true)  
  
 4.  BuildSchool Blog  
