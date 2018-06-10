@@ -13,7 +13,7 @@ Front-End
 2. Shopee  
 [Look more!](https://calenderjs.azurewebsites.net/shop.html)  
 ***
-＋復刻蝦皮首頁，練習前端切板技巧
+＋復刻蝦皮首頁，練習前端切板技巧  
 ![Shopee](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/shopeeimage.png?raw=true)
 
 3.  Web  
