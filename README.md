@@ -43,15 +43,19 @@ Front-End
 7. Calendar  
 [Look more!](https://calenderjs.azurewebsites.net/Calendar.html)  
 ***
-＋
+＋運用CSS...等前端技巧刻出自己想要的日曆頁面，並且用JavaScript讓日曆活起來
 ![Calendar](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/calendar.png?raw=true)  
 
 8. 終極密碼  
-[Look more!](https://calenderjs.azurewebsites.net/JSpassword.html)
+[Look more!](https://calenderjs.azurewebsites.net/JSpassword.html)  
+***
+＋用Bootstrap寫出遊戲呈現的頁面，透過程式完成終極密碼的猜數字小遊戲（五次內要打出答案）
 ![1-100](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/JSpassword.png?raw=true)  
 
 9. 打地鼠  
-[Look more!](https://calenderjs.azurewebsites.net/mole.html)
+[Look more!](https://calenderjs.azurewebsites.net/mole.html)  
+***
+＋用CSS呈現出地鼠的動態，讓使用者有更多動態的體驗，並可透過計分來表示遊戲結束
 ![mole](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/mole.png?raw=true)  
 
 10. 咖啡小瑪莉  
