@@ -19,11 +19,13 @@ Front-End
 3.  Web  
 [Look more!](https://calenderjs.azurewebsites.net/Web.html)  
 ***
-＋
+＋復刻新聞版頁面
  ![Web](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/FireShot%20Capture%2012%20-%20Title%20-%20file____Users_alice_Documents_GithubHW_shopee_Web.html.png?raw=true)  
  
 4.  BuildSchool Blog  
-[Look more!](https://calenderjs.azurewebsites.net/bsblog.html)
+[Look more!](https://calenderjs.azurewebsites.net/bsblog.html)  
+***
+＋復刻Build School頁面
 ![BuildSchool](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/BS.png?raw=true)
 
 5. News  
