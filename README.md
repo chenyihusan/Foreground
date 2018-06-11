@@ -29,15 +29,21 @@ Front-End
 ![BuildSchool](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/BS.png?raw=true)
 
 5. News  
-[Look more!](https://calenderjs.azurewebsites.net/NewNews.html)
+[Look more!](https://calenderjs.azurewebsites.net/NewNews.html)  
+***
+＋實作屬於自己的藝術新聞網
 ![ArtNews](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/artnews.png?raw=true)
 
 6. Trello  
-[Look more!](https://calenderjs.azurewebsites.net/trello.html)
+[Look more!](https://calenderjs.azurewebsites.net/trello.html)  
+***
+＋Trello卡片的復刻版練習
 ![Trello](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/trello.png?raw=true)  
 
 7. Calendar  
-[Look more!](https://calenderjs.azurewebsites.net/Calendar.html)
+[Look more!](https://calenderjs.azurewebsites.net/Calendar.html)  
+***
+＋
 ![Calendar](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/calendar.png?raw=true)  
 
 8. 終極密碼  
