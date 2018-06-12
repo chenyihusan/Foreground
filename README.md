@@ -59,7 +59,9 @@ Front-End
 ![mole](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/mole.png?raw=true)  
 
 10. 咖啡小瑪莉  
-[Look more!](https://calenderjs.azurewebsites.net/mary.html)
+[Look more!](https://calenderjs.azurewebsites.net/mary.html)  
+***
+＋動態類似俄羅斯輪盤的遊戲，結合兌換咖啡的選項
 ![mary](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/mary.png?raw=true)  
 
 11.幾A幾B猜數字  
