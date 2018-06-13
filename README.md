@@ -75,7 +75,9 @@ Front-End
  
  
     *Angular 
-[Look more!](https://calenderjs.azurewebsites.net/jquerycalendar.html)
+[Look more!](https://calenderjs.azurewebsites.net/jquerycalendar.html)  
+***
+＋將作品編號7的Calendar，透過Angular前端框架呈現出來
 ![AB](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/JQcalendar.png?raw=true)  
 
 13.計算過路費  
