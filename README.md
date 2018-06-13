@@ -67,7 +67,7 @@ Front-End
 11.幾A幾B猜數字  
 [Look more!](https://calenderjs.azurewebsites.net/numberAB.html)  
 ***
-＋
+＋用Bootstrap寫出遊戲呈現的頁面，透過程式完成幾A幾B猜數字的猜數字小遊戲
 ![AB](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/螢幕快照%202018-05-19%20下午6.17.05.png?raw=true)  
 
 12.Angular行事曆  
