@@ -85,8 +85,3 @@ Front-End
 ***  
 +在地圖上點選兩個地點，依照大眾運輸工具，開車和搭乘計程車計算出交通的成本
 ![Fee](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/maptravelimage.png?raw=true)  
-13.計算過路費  
-[Look more!](https://calenderjs.azurewebsites.net/maptravel.html)  
-***  
-+在地圖上點選兩個地點，依照大眾運輸工具，開車和搭乘計程車計算出交通的成本
-![Fee](https://github.com/chenyihusan/Foreground/blob/master/imagefrontend/maptravelimage.png?raw=true)  
